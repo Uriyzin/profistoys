@@ -1,0 +1,25 @@
+/* Perfil do Instagram */
+.instaperfil{
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5%;
+  margin-top: 1.5%;
+}
+.perfil{
+  width: 80%;
+  max-width: 300px;
+  border-radius: 100%;
+  border: 5px solid #000000;
+}
+.logoperfil{
+  margin-right: 1%;
+}
+
+.bio{
+  font-size: x-large;
+  line-height: 1;
+}
+
